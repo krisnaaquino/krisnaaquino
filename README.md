@@ -1,4 +1,4 @@
-# Hi, I'm Krisna 👋
+# Hi, I'm Krisna 🌻
 
 ### Senior Database Administrator | PostgreSQL | SQL Server | Data Engineering
 
